@@ -1,0 +1,7 @@
+Bivariate contour plot of head tracking displacement in the x-z plane. Univariate plots along each axis are also included.
+
+
+Made them explore the environment less in the z-direction???
+(Makes more sense if it was x, as they felt resistive torques).
+
+The fact that they explored a subset is down to the torques and the sense of familiarity they eowuldve gain from exploring without our haptic rendeing

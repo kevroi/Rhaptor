@@ -81,7 +81,7 @@ void loop() {
       setSpeedSide(pot_value);
     }
 
-  if (message = 'R')
+  if (message == 'R')
     {
       // anti-phase rumble effect
       pot_max = 65;
@@ -94,7 +94,7 @@ void loop() {
       setSpeedSide(pot_high);
     }
 
-  if (message = 'S')
+  if (message == 'S')
     {
       // in-phase rumble effect
       pot_max = 65;
@@ -107,7 +107,7 @@ void loop() {
       setSpeedSide(pot_low);
     }
 
-  if (message = 'T')
+  if (message == 'T')
   {
     // tension effect
     if (IMU.gyroscopeAvailable())
