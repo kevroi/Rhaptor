@@ -19,5 +19,5 @@ While the Unity environemnets cannot be loaded from just the Assets, screenshots
 ![Beach](Figures/worlds_screenshots/rocky_planet_wide.PNG)
 
 ## Demo
-![Demo Video 1](DemoVideo/RHAPTOR_videoCorrected.mp4)
+![Demo Video 1](DemoVideo/RHAPTOR_videoCorrected_comp.mp4)
 ![Demo Video 2](DemoVideo/Demo.mp4)
