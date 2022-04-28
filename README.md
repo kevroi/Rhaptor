@@ -10,7 +10,7 @@ This repository contains the main source code files relevant to my project. I ha
 * Python Data Analysis Scripts
 
 ## Environments
-Environemnts available on [Google Drive](https://drive.google.com/drive/folders/1tph_LBkmk3lDrchsNHONTKINAlR3lUr4?usp=sharing).
+Environments available on [Google Drive](https://drive.google.com/drive/folders/1tph_LBkmk3lDrchsNHONTKINAlR3lUr4?usp=sharing).
 While the Unity environemnets cannot be loaded from just the Assets, screenshots of the environemnets have been included below:
 
 ![Beach](Figures/worlds_screenshots/beach_wide.PNG)
